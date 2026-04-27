@@ -24,7 +24,7 @@ It allows manual driving like a game:
 
 Make sure you have:
 
-- ROS 2 installed (Humble / Iron / Jazzy)
+- ROS 2 installed (Jazzy)
 - TurtleBot3 simulation
 - Gazebo
 - colcon build tools
